@@ -1,4 +1,4 @@
-
+---
 
 ```md
 # 🏠 UrbanEase – Service Marketplace Application
@@ -223,7 +223,4 @@ Full Stack Developer (Python | Django | React)
 
 ---
 
-
-
-Just tell me 👍
 ```
