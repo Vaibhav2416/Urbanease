@@ -1,14 +1,12 @@
 ---
 
-```md
+
 # 🏠 UrbanEase – Service Marketplace Application
 
 UrbanEase is a **full-stack service marketplace application** inspired by platforms like *Urban Company*.  
 It allows customers to book home services and providers to manage service requests through role-based dashboards.
 
 This project is built to demonstrate **real-world full-stack architecture**, secure authentication, and clean API design.
-
----
 
 ## 🚀 Features
 
