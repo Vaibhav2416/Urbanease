@@ -1,4 +1,3 @@
----
 
 ```md
 # 🏠 UrbanEase – Service Marketplace Application
@@ -8,7 +7,7 @@ It allows customers to book home services and providers to manage service reques
 
 This project is built to demonstrate **real-world full-stack architecture**, secure authentication, and clean API design.
 
----
+
 
 ## 🚀 Features
 
