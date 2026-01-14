@@ -1,3 +1,5 @@
+---
+
 ```md
 # 🏠 UrbanEase – Service Marketplace Application
 
@@ -206,5 +208,22 @@ This project is designed to showcase:
 * Notifications
 * Deployment (Render / Vercel)
 
+---
 
+## 👤 Author
+
+**Vaibhav Sultane**
+Full Stack Developer (Python | Django | React)
+
+---
+
+⭐ If you like this project, feel free to star the repository!
+
+```
+
+---
+
+
+
+Just tell me 👍
 ```
